@@ -1,0 +1,27 @@
+id: I7B357751
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-23T10:21:13+00:00'
+last_modified: '2022-06-07T21:07:44.748900+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W30084
+  title: རྗེ་ཡབ་སྲས་ཀྱི་གསུང་རྩོམ་ཉེར་མཁོ་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    DDAA:
+      image_group_id: I5798
+      title: ''
+      total_pages: 562
+      order: 1
+      base_file: DDAA.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
